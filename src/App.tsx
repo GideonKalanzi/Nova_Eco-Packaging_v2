@@ -79,7 +79,7 @@ function App() {
             <div className="flex-1">
               <h2 className="text-4xl font-bold text-green-800 mb-6">About Nova Packaging</h2>
               <p className="text-gray-600 mb-6">
-<<<<<<< HEAD
+
               NOVA-ECO PACKAGING (U) LTD is a youth run start-up that was conceived in 2019 to innovate
               new affordable and environmentally friendly solutions to product packaging especially for Small
               and Medium Enterprises (SMEs). Since then, our company has evolved from a small informal
@@ -90,9 +90,9 @@ function App() {
               We are striving to become the leading provider of eco-packaging solutions in the region,
               fostering a culture of innovation and sustainability and inspire a national movement towards a
               waste free future.
-=======
+
                 Founded with a vision to revolutionize the packaging industry, Nova Packaging is committed to creating sustainable solutions that don't compromise on quality or performance.
->>>>>>> d4e4925 (Made needed changes)
+
               </p>
               <div className="flex items-center space-x-4 mb-4">
                 <TreePine className="h-6 w-6 text-green-600" />
@@ -109,7 +109,8 @@ function App() {
             </div>
             <div className="flex-1">
               <img
-                src="https://images.unsplash.com/photo-1605600659908-0ef719419d41?auto=format&fit=crop&q=80&w=800"
+                src="https://images.unsplash.com/photo-1605600659908-0ef719419d41?auto=format&fit=crop&q=80&w=800" 
+                //src="images/packages.jpeg"
                 alt="Sustainable Packaging"
                 className="rounded-xl shadow-lg"
               />
@@ -128,41 +129,55 @@ function App() {
                 <Phone className="h-6 w-6 text-green-600" />
                 <div>
                   <h3 className="font-semibold text-green-800">Phone</h3>
-<<<<<<< HEAD
+
                   <p className="text-gray-600">
                   +256764684872(Available on Whastapp) <br></br>
                   +256779526240 <br></br>
                   +256705746439 <br></br>
                   +256704561630
                   </p>
-=======
+
                   <p className="text-gray-600">+1 (555) 123-4567</p>
->>>>>>> d4e4925 (Made needed changes)
+
+                  <p className="text-gray-600">
+                  +256764684872(Available on Whastapp) <br />
+                    +256779526240 <br />
+                    +256705746439 <br />
+                    +256704561630
+                  </p>
+
                 </div>
               </div>
               <div className="flex items-center space-x-4">
                 <Mail className="h-6 w-6 text-green-600" />
                 <div>
                   <h3 className="font-semibold text-green-800">Email</h3>
-<<<<<<< HEAD
+
                   <p className="text-gray-600">ecofairpackaging@gmail.com</p>
-=======
+
                   <p className="text-gray-600">contact@novapackaging.com</p>
->>>>>>> d4e4925 (Made needed changes)
+
+                  <p className="text-gray-600">ecofairpackaging@gmail.com</p>
+
                 </div>
               </div>
               <div className="flex items-center space-x-4">
                 <MapPin className="h-6 w-6 text-green-600" />
                 <div>
                   <h3 className="font-semibold text-green-800">Address</h3>
-<<<<<<< HEAD
+
                   <p className="text-gray-600">
                     Kampala workshop: Nasser road, Ddembelyo house 2nd floor. <br></br>
                     Mbarara workshop: Rwebikoona Market No.61
                   </p>
-=======
+
                   <p className="text-gray-600">123 Eco Street, Green City, EC 12345</p>
->>>>>>> d4e4925 (Made needed changes)
+
+                  <p className="text-gray-600">
+                  Kampala workshop: Nasser road, Ddembelyo house 2nd floor <br />
+                  Mbarara workshop: Rwebikoona Market No.61
+                  </p>
+
                 </div>
               </div>
             </div>
