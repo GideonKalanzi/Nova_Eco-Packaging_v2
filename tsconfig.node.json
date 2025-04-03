@@ -1,5 +1,5 @@
 {
-<<<<<<< HEAD
+
   "compilerOptions": {
     "target": "ES2022",
     "lib": ["ES2023"],
@@ -20,8 +20,7 @@
     "noFallthroughCasesInSwitch": true
   },
   "include": ["vite.config.ts"]
-}
-=======
+
     "compilerOptions": {
       "target": "ES2022",
       "lib": ["ES2023"],
@@ -44,4 +43,3 @@
     "include": ["vite.config.ts"]
   }
   
->>>>>>> d4e4925 (Made needed changes)
